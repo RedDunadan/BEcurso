@@ -1,0 +1,19 @@
+{
+  "name": "becurso",
+  "version": "1.0.0",
+  "description": "curso de back end",
+  "keywords": [
+    "be"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "curso backend"
+  },
+  "license": "ISC",
+  "author": "Rhedd",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
