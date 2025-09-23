@@ -44,5 +44,5 @@ switch (command) {
             break;
         }
     default:
-        console.log('Unknown command. Use "post <value>", "get", or "delete <index>".');
+        console.log('Unknown command. Use "post <value>", "get", or "delete <value>".');
 }
