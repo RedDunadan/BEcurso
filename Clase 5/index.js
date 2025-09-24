@@ -1,8 +1,7 @@
+import { loadDB , saveDB } from "./persistencia";
 const args = process.argv.slice(2);
 const command = args[0];
 const value = args[1];
-
-let store = [];
 
 switch (command) {
     case 'post':

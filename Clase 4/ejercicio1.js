@@ -11,7 +11,6 @@ const cars = [
     { mark: 'Kia', model: 'Sportage', year: 2018, color: 'Brown' }
 ];
 
-// a) Obtener un array con los modelos de todos los coches cuyo ano sea mayor a 2018.
 function modelFilter(askYear) {
     let count = 0;
     cars.forEach(({year}) => {
